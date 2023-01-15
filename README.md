@@ -1,5 +1,5 @@
-# DL_Rec_Sys
-Deep Learning Course: Project Recommender Systems with Deep Learning
+# Deep Learning Projekt Seminar HBRS (Prof. Dr. Hees)
+Subject of the project: Recommender System
 
 TensorFlow Keras API with the Netflix-Prize Dataset from 2006.
 
