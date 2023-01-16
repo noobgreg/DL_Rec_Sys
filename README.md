@@ -1,6 +1,11 @@
-# Deep Learning Projekt Seminar HBRS (Prof. Dr. Hees)
+# Deep Learning Projekt Seminar HBRS (Recommender System)
 
-Subject of the project: Building a Deep Learning Recommender System with the help of TensorFlow Keras API and Netflix-Prize Dataset from 2006.
+Subject of the project: Building a Deep Learning Collaborative Filtering Recommender System with the help of TensorFlow Keras API and Netflix-Prize Dataset from 2006.
+
+This repository contains the following files:
+* Slideshow of the final presentaion as a .pdf file.
+* Jupyter Notebook file where the data preprocessing and all the coding of the recommender system is done.
+* Screenshots of different training and testing parameters.
 
 
 Template of the model and the used data: https://www.kaggle.com/code/morrisb/how-to-recommend-anything-deep-recommender
