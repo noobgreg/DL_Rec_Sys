@@ -5,10 +5,10 @@ Subject of the project: Building a Deep Learning Collaborative Filtering Recomme
 This repository contains the following files:
 * Slideshow of the final presentaion as a .pdf file.
 * Jupyter Notebook file where the data preprocessing and all the coding of the recommender system is done.
-* Screenshots of different training and testing parameters.
+* Screenshots of the results from different training and testing parameters.
 
 
-Template of the model and the used data: https://www.kaggle.com/code/morrisb/how-to-recommend-anything-deep-recommender
+Template of the model and the used data can be found here: https://www.kaggle.com/code/morrisb/how-to-recommend-anything-deep-recommender
 
 
 Sources:
